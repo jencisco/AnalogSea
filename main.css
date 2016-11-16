@@ -1,0 +1,83 @@
+body {
+	padding: 0 0 0 0;
+	background-color: #3393FF;
+}
+
+.logo {
+	padding: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 35px;
+	width: auto;
+	display: block;
+}
+
+.signup {
+	width: 360px;
+	padding: 10px 40px;
+	border-radius: 10px;
+	box-shadow: 10px 10px 20px black;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	font-family: helvetica;
+}
+
+h1 {
+	font-family: 'Noto Sans', sans-serif;
+	font-size: 30px;
+	text-align: center;
+}
+
+.signup label {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.signup input {
+  display: block;
+  width: 320px;
+  border: 2px solid grey;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  padding: 15px;
+  font-size: 18px;
+}
+
+.signup button {
+	display: block;
+	width: 356px;
+	height: 55px;
+	font-size: 24px;
+	color: white;
+	text-shadow: 1px 1px 2px black;
+	background-color: #2DDF3A;
+	border-radius: 5px;
+	box-shadow: 5px 5px 10px black;
+	cursor: pointer;
+}
+
+.signup a {
+	margin-top: 24px;
+	display: block;
+	text-align: center;
+	color: grey;
+}
+
+h3 {
+	font-family: Helvetica;
+	font-size: 16px;
+	font-weight: normal;
+	color: white;
+	text-align: center;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h3 a:link {
+	text-decoration: none;
+	color: white;
+}
